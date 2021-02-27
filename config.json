@@ -1,0 +1,11 @@
+{
+  "prefix": "/",
+  "token": "DISCORD_BOT_TOKEN",
+  "shoppy_api_key": "SHOPPY_API_KEY",
+  "permission_roles":[
+    12345,
+    67890
+  ],
+  "customer_role": 12345,
+  "restock_channel": 12345
+}
